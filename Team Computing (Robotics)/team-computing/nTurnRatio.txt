@@ -1,0 +1,5 @@
+100 applies power to nMotorOne and negative power to nMotorTwo.
+-100 applies negative power to nMotorOne and power to nMotorTwo.
+0 applies equal power to nMotorOne and nMotorTwo (straight movement).
+50 applies all of the power to nMotorOne and zero power to nMotorTwo.
+-50 applies zero power to nMotorOne and all of the power to nMotorTwo.

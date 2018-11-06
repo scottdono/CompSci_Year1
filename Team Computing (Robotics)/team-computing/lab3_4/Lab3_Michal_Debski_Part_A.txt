@@ -1,0 +1,25 @@
+1. 
+	(a) true
+	(b) true
+	(c) true
+	(d) false
+	(e) false
+	(f) true
+	(g) false
+	(h) true
+	(i)	false
+	(j) false
+
+2. 
+	3rd line, additional "{"
+	6th line, wrong function name(setMotorSynctime)
+	6th line, motors defined by "left" and "right" but in config motors name are set to "leftmotor", "rightmotor"
+	7th line, comment not closed
+	8th line, 100 as 3rd argument in setMotorSyncTime function means that power is applied to first motor and negative power to second motor
+	9th line, too many function arguments
+	12th line, no semicolon
+	15th line, missing one "/"
+	16th line, function can't take value more than 100 as 3rd argument
+	20th line, same as 6th line
+	
+	

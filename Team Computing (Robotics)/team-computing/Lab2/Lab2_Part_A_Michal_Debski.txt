@@ -1,0 +1,15 @@
+Part A
+1.
+	a) true
+	b) false
+	c) true
+	d) true
+	e) true
+	f) true
+	g) true
+	h) true
+	
+2.
+	e) git add filename.c
+	c) git push origin master
+	f) git commit -m ”my comment is here” filename.c

@@ -1,0 +1,26 @@
+1.
+	(a) true
+	(b) false
+	(c) false
+	(d) true
+	(e) true
+	(f) false
+	(g) false
+	(h) true
+	(i) true
+	(j) false
+
+2.
+	3. Should be encoder
+	17. Variable t1 does not exist, wrong declaration of array time1
+	18. There's no first bracket after while
+	28. Missing curly bracket of function scanLine()
+	33. Function returns 1 although is type of void
+	39. Function scanLine doesn't take any arguments
+	42. Value not assignet to any variable
+	43. Wrong bracket type used after "motor" and to variable "error" value is not assignet, program won'w work properly
+	44. To variable "error" value is not assignet, program won'w work properly
+	45. Use of non-exisiting function wait1Msec()
+	
+
+	
